@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/902.5083bb12.chunk.js","mappings":"iMAAe,SAASA,IACpB,OAAO,wIACR,C","sources":["views/NotFoundPage/NotFoundPage.jsx"],"sourcesContent":["export default function NotFoundPage() {\n    return <h1>Cторінка не знайдена :(</h1>;\n  }"],"names":["NotFoundPage"],"sourceRoot":""}
